@@ -1,3 +1,9 @@
+# Tareas Realizadas
+
+Creación de la tabla en Supabase
+Se realizó la conexión a la base de datos en supabase, los datos fueron consumidos y mostrados en la vista en una tabla en React.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
